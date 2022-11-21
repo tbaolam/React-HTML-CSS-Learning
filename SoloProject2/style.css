@@ -29,7 +29,7 @@ nav > p {
 .card{
     margin: 40px 45px;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: flex-start;
     height: 200px;
 }
